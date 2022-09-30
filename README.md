@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ## Hello, welcome to my GitHub!
 
-<a href="https://medium.com/@javeriatabassum514">
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
+<a href="https://medium.com/@javeriatabassum514" target="_blank">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=black&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/javeria-tabassum-176204194/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+<a href="https://www.linkedin.com/in/javeria-tabassum-176204194/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white" />
 </a>
-<a href="http://portfolio.javeriatabassum.live/">
+<a href="http://portfolio.javeriatabassum.live/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" />
 </a>
 
