@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hello, welcome to my GitHub!
+## 👋 Hello, welcome to my GitHub!
 
 <a href="https://medium.com/@javeriatabassum514" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=black&logoColor=white" />
