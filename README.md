@@ -16,7 +16,7 @@ I'm Javeria Tabassum, a Software Engineer with experience in C#, ASP .NET Core, 
 
 ### 📫 Let's Connect!
 
-- **Location:** Karachi, Pakistan
+- **Location:** Pakistan
 - **Email:** [javeriatabassum514@gmail.com](mailto:javeriatabassum514@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=blue&logoColor=white)](https://www.linkedin.com/in/javeria-tabassum-176204194/)
 - [![GitHub](https://img.shields.io/badge/GITHUB-12100E?logo=github&color=black&logoColor=white)](https://github.com/javeriatabassum145)
