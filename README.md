@@ -5,8 +5,8 @@ I'm a Software Engineer with around 4 years of experience designing, developing,
 Throughout my career, I've worked across the full software development lifecycle, from designing and developing applications to testing, deployment, and maintenance. My primary focus is on backend development using the Microsoft technology stack, while also contributing to frontend development when needed.
 
 I'm also Microsoft Certified in:
- Microsoft Certified: Power Platform Fundamentals (PL-900) 
- Microsoft Certified: Power Platform App Maker (PL-100) 
+ Microsoft Certified: Power Platform Fundamentals (PL-900) ,
+ Microsoft Certified: Power Platform App Maker (PL-100) ,
  Microsoft Certified: Power Platform Developer (PL-400) 
 
 ### 🛠️ Technical Skills
