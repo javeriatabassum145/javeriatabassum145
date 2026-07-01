@@ -18,7 +18,7 @@ I'm a **Software Engineer** with **4 years of experience** designing, developing
 
 I hold a **Bachelor's degree in Computer Systems Engineering** from **NED University of Engineering & Technology**.
 
-My expertise is primarily in **backend development (C#, ASP.NET Core, Entity Framework, SQL Server, PostgreSQL, Oracle)** along with experience in **React.js, Power Platform, and DevOps tools**.
+My expertise is primarily in **backend development (C#, ASP.NET Core, Entity Framework, SQL Server, Oracle)** along with experience in **React.js, Power Platform, and DevOps tools**.
 
 I enjoy building clean, scalable, and high-performance systems and continuously improving my technical skills.
 
