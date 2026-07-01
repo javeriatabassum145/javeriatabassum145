@@ -1,6 +1,13 @@
 ## 👋 Hello, welcome to my GitHub!
 
-I'm Javeria Tabassum, a Software Engineer with experience in C#, ASP .NET Core, MVC, HTML, CSS, JavaScript, Python.
+I'm a Software Engineer with around 4 years of experience designing, developing, and maintaining web and desktop applications. I hold a Bachelor's degree in Computer Systems Engineering from NED University of Engineering and Technology and enjoy building reliable, scalable, and high-performance software solutions.
+
+Throughout my career, I've worked across the full software development lifecycle, from designing and developing applications to testing, deployment, and maintenance. My primary focus is on backend development using the Microsoft technology stack, while also contributing to frontend development when needed.
+
+I'm also Microsoft Certified in:
+ Microsoft Certified: Power Platform Fundamentals (PL-900) 
+ Microsoft Certified: Power Platform App Maker (PL-100) 
+ Microsoft Certified: Power Platform Developer (PL-400) 
 
 ### 🛠️ Technical Skills
 
