@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Engineer** with **4+ years of experience** designing, developing, and maintaining scalable web applications, APIs, and enterprise systems using the Microsoft technology stack.
+I'm a **Software Engineer** with **4 years of experience** designing, developing, and maintaining scalable web applications, APIs, and enterprise systems using the Microsoft technology stack.
 
 I hold a **Bachelor's degree in Computer Systems Engineering** from **NED University of Engineering & Technology**.
 
