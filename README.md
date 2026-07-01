@@ -30,6 +30,22 @@ I'm also Microsoft Certified in:
 
 ### ⚡️ Github Stats
 
-<! -- <img width=400 src='https://github-readme-stats.vercel.app/api?username=javeriatabassum145&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> -->
+<!-- <img width=400 src='https://github-readme-stats.vercel.app/api?username=javeriatabassum145&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> -->
+<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javeriatabassum145&theme=github_dark" />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=javeriatabassum145&theme=vue-dark&hide_border=true' />
-<!-- <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=javeriatabassum145&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' /> -->
+
+<--<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=javeriatabassum145&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />-->
+
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=javeriatabassum145&theme=github-dark&hide_border=true" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javeriatabassum145&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javeriatabassum145&theme=github_dark" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javeriatabassum145&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=javeriatabassum145&theme=github-dark&hide_border=true" />
+</p>
